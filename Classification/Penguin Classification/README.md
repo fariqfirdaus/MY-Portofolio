@@ -1,0 +1,2 @@
+## Narasi Project
+Pada project ini dilakukan pengelompokan terhadap Spesies penguin dari berbagai macam bentuk fisik. Terdapat 3 spesies penguin yaitu Adelie, Gentoo, dan Chinstrap. Pada dataset diberikan features seperti species, island, culmen_length_mm, culmen_depth_mm, flipper_length_mm, body_mass_g, dan sex. Dalam melakukan classification spesies penguin digunakan model Decision Tree Classifier.
