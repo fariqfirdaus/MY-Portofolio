@@ -1,0 +1,7 @@
+## Penjelasan Umum
+Pada era perkembangan teknologi seperti sekarang ini, peran teknologi diperlukan untuk memudahkan tugas manusia bahkan meminimumkan kesalahan-kesalahan manusia. Bidang pekerjaan yang hampir tidak menerima kesalahan adalah bidang kesehatan. Saat ini teknologi mulai merambah ke dalam bidang kesehatan karena terbukti mampu menambah objektifitas dan efektivitas dalam membantu dokter atau tenaga kesehatan dalam menangani pasien. Oleh karena itu, diharapkan kedepannya teknologi mampu memaksimalkan tugas dokter atau tenaga medis.
+
+## Narasi Project
+Pada project ini, sebuah rumah sakit mengalami masalah dalam mendeteksi penyakit jantung dengan sejumlah faktor yang mempengaruhinya. Rumah sakit memerlukan pemahaman terhadap faktor yang dapat mempengaruhi tingkat prediksi penyakit jantung pada pasien sehingga deteksi penyakit jantung dapat berjalan efektif. Banyak Faktor yang mempengauhi tingkat prediksi jantung dan akan dilakukan penyelidikan terhadap hubungan antara beberapa faktor. Pada rumah sakit terdapat dataset yang terdiri dari 4 database Cleveland, Hungary, Switzerland, dan Long Beach V. 
+
+Untuk melakukan prediksi pada rumah sakit ini, Data scientist ditugaskan untuk menyeleksi faktor-faktor yang memiliki hubungan kuat terhadap kasus penyakit jantung. Selain itu, juga diharapkan mampu membuat model prediksi yang dapat diterapkan untuk mendeteksi penyakit jantung.
