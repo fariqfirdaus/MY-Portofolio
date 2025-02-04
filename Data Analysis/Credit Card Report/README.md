@@ -1,3 +1,4 @@
+Link this report: [https://lookerstudio.google.com/reporting/bccfa73c-6016-45f5-9c6a-64e799446680](url)
 ![image](https://github.com/user-attachments/assets/9ced51cb-190d-4103-b97e-92916fd58534)
 
 ## Pertanyaan Bisnis:
